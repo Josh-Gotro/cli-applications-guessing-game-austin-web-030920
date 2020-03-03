@@ -2,7 +2,7 @@ def run_guessing_game
   
   # generate and store a random mnumber between 1 and 6
   num = rand(6) + 1
-  
+  input = gets 
   # Prompt user to guess their own number between 1 and 6
   
   # capture user input from the command link_to_remote
